@@ -1,4 +1,4 @@
-# REDAS Model 1
+# REDAS (Model 1)
 
 Scrape Article On Wiki - Read Article Out Loud (custom script)
 
