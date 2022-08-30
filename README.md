@@ -1,4 +1,4 @@
-# REDAS (Model 1 & 2)
+# REDAS (Model 1 & 2) (Updated / 31/08/2022) 
 
 Scrape Article On Wiki - Read Article Out Loud (custom Text-To-Speech Ai script)
 
