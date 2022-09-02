@@ -2,7 +2,7 @@
 
 Scrape Article On Wiki - Read Article Out Loud (custom Text-To-Speech Ai script)
 
-REDAS version (v.0.1-3)
+REDAS version (v.0.1-4)
 
 (Run w/ Jupyter Notebook)
 
