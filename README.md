@@ -2,7 +2,7 @@
 
 Scrape Article On Wiki - Read Article Out Loud (custom Text-To-Speech Ai script)
 
-Version (v.0.1-4)
+Version (v.0.2-1)
 
 (Run w/ Jupyter Notebook)
 
